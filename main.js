@@ -1,3 +1,4 @@
 $(document).ready(function () {
-    $(".answers").css("background", "red");
+
+    $(".zingtree").css("background-color", "yellow");
 });
