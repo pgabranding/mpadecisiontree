@@ -16,6 +16,6 @@ iframe {
 }
 
 
-#node-393803353-4 .answers a:first-child:hover .test {
-    display: block !important;
+#node-393803353-4 .answers a:first-child:hover {
+    border: 10px solid red;
 }
