@@ -9,3 +9,13 @@ iframe {
             sans-serif !important;
     }
 }
+
+
+.test {
+    display: none;
+}
+
+
+#node-393803353-4 .answers a:first-child:hover .test {
+    display: block !important;
+}
